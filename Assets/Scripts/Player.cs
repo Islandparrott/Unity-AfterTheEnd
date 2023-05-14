@@ -102,6 +102,4 @@ public class Player : MonoBehaviour
             return;
         Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
-
-
 }

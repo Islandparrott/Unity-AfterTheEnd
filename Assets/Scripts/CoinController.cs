@@ -2,6 +2,8 @@
 // created: 23.04.21
 //
 // This script adds functionality to the coins for testing.
+//
+// Resources used:
 
 using UnityEngine;
 
