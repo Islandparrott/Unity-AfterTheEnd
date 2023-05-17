@@ -37,10 +37,7 @@ public class MenuButton : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Escape))
-        {
-            //PauseHandler();
-        }
+
     }
 
     public void GoToScene(string sceneName)
